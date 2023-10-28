@@ -1,2 +1,2 @@
 #Hi, there. This is a change. 
-This is a conflict.
+I am making a change.
